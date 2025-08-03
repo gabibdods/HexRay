@@ -10,3 +10,6 @@
 
 
 # particular repository ignores:
+
+!hexray.go
+!app.yaml
